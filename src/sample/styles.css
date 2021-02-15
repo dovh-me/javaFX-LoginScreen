@@ -28,7 +28,7 @@
 
 .close-btn:hover{
     -fx-background-color: #fd5a31;
-    -fx-background-radius: 0;
+    -fx-background-radius: 5px;
 }
 
 .other-btns{
